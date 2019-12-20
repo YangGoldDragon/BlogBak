@@ -5,3 +5,4 @@
 ## <br/><br/>JavaScript浅入浅出
 #### &nbsp;&nbsp;[手动实现new操作符](https://github.com/YangGoldDragon/Blog/issues/1)
 #### &nbsp;&nbsp;[原型原型链](https://github.com/YangGoldDragon/Blog/issues/4)
+#### &nbsp;&nbsp;[原型原型链](https://github.com/YangGoldDragon/Blog/issues/5)
