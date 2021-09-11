@@ -1,5 +1,5 @@
 ___Keep Study___
-## <br/><br/>JavaScript浅入浅出
+## JavaScript浅入浅出
 #### &nbsp;&nbsp;[数据类型](https://github.com/YangGoldDragon/Blog/issues/8)
 #### &nbsp;&nbsp;[作用域闭包](https://github.com/YangGoldDragon/Blog/issues/5)
 #### &nbsp;&nbsp;[手动实现new操作符](https://github.com/YangGoldDragon/Blog/issues/1)
