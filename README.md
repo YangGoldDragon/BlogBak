@@ -5,7 +5,7 @@
 #### &nbsp;&nbsp;[作用域闭包](https://github.com/YangGoldDragon/Blog/issues/5)
 #### &nbsp;&nbsp;[手动实现new操作符](https://github.com/YangGoldDragon/Blog/issues/1)
 #### &nbsp;&nbsp;[原型原型链](https://github.com/YangGoldDragon/Blog/issues/4)
-#### &nbsp;&nbsp;[JavaScript的执行机制](https://github.com/YangGoldDragon/Blog/issues/6)
+#### &nbsp;&nbsp;[Javascript的执行机制](https://github.com/YangGoldDragon/Blog/issues/6)
 #### &nbsp;&nbsp;[Typescript常用特性](https://github.com/YangGoldDragon/Blog/issues/14)
 ## <br/><br/>Git学习笔记
 #### &nbsp;&nbsp;[git知识点](https://github.com/YangGoldDragon/Blog/issues/7)
