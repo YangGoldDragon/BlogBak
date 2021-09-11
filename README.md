@@ -8,8 +8,8 @@
 #### &nbsp;&nbsp;[Javascript的执行机制](https://github.com/YangGoldDragon/Blog/issues/6)
 #### &nbsp;&nbsp;[Typescript常用特性](https://github.com/YangGoldDragon/Blog/issues/14)
 ## <br/><br/>Git学习笔记
-#### &nbsp;&nbsp;[git知识点](https://github.com/YangGoldDragon/Blog/issues/7)
+#### &nbsp;&nbsp;[Git知识点](https://github.com/YangGoldDragon/Blog/issues/7)
 ## <br/><br/>移动端调试
-#### &nbsp;&nbsp;[IOS键盘弹起影响页面元素位置](https://github.com/YangGoldDragon/Blog/issues/9)
+#### &nbsp;&nbsp;[Ios键盘弹起影响页面元素位置](https://github.com/YangGoldDragon/Blog/issues/9)
 ## <br/><br/>疑难杂症
-#### &nbsp;&nbsp;[html5图片压缩，方向纠正，预览，上传](https://github.com/YangGoldDragon/Blog/issues/10)
+#### &nbsp;&nbsp;[Html5图片压缩，方向纠正，预览，上传](https://github.com/YangGoldDragon/Blog/issues/10)
