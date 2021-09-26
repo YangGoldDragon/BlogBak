@@ -8,6 +8,10 @@
 #### &nbsp;&nbsp;[原型原型链](https://github.com/YangGoldDragon/Blog/issues/4)
 #### &nbsp;&nbsp;[Javascript的执行机制](https://github.com/YangGoldDragon/Blog/issues/6)
 #### &nbsp;&nbsp;[Typescript常用特性](https://github.com/YangGoldDragon/Blog/issues/14)
+
+## 性能优化
+#### &nbsp;&nbsp;[性能优化](https://github.com/YangGoldDragon/Blog/issues/17)
+
 ## <br/><br/>Git学习笔记
 #### &nbsp;&nbsp;[Git知识点](https://github.com/YangGoldDragon/Blog/issues/7)
 ## <br/><br/>移动端调试
