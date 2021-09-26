@@ -4,6 +4,7 @@
 #### &nbsp;&nbsp;[数据类型](https://github.com/YangGoldDragon/Blog/issues/8)
 #### &nbsp;&nbsp;[作用域闭包](https://github.com/YangGoldDragon/Blog/issues/5)
 #### &nbsp;&nbsp;[手动实现new操作符](https://github.com/YangGoldDragon/Blog/issues/1)
+#### &nbsp;&nbsp;[手动实现call](https://github.com/YangGoldDragon/Blog/issues/19)
 #### &nbsp;&nbsp;[手动实现instanceof](https://github.com/YangGoldDragon/Blog/issues/16)
 #### &nbsp;&nbsp;[手动实现promise](https://github.com/YangGoldDragon/Blog/issues/18)
 #### &nbsp;&nbsp;[原型原型链](https://github.com/YangGoldDragon/Blog/issues/4)
