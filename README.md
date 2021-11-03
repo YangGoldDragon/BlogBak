@@ -7,11 +7,12 @@
 #### &nbsp;&nbsp;[手动实现call](https://github.com/YangGoldDragon/Blog/issues/19)
 #### &nbsp;&nbsp;[手动实现instanceof](https://github.com/YangGoldDragon/Blog/issues/16)
 #### &nbsp;&nbsp;[手动实现promise](https://github.com/YangGoldDragon/Blog/issues/18)
+#### &nbsp;&nbsp;[手动实现防抖节流](https://github.com/YangGoldDragon/Blog/issues/20)
 #### &nbsp;&nbsp;[原型原型链](https://github.com/YangGoldDragon/Blog/issues/4)
 #### &nbsp;&nbsp;[Javascript的执行机制](https://github.com/YangGoldDragon/Blog/issues/6)
 #### &nbsp;&nbsp;[Typescript常用特性](https://github.com/YangGoldDragon/Blog/issues/14)
 ## <br/><br/>设计模式
-#### &nbsp;&nbsp;[发布订阅模式](https://github.com/YangGoldDragon/Blog/issues/17)
+#### &nbsp;&nbsp;[发布订阅模式](https://github.com/YangGoldDragon/Blog/issues/21)
 ## <br/><br/>性能优化
 #### &nbsp;&nbsp;[性能优化简述](https://github.com/YangGoldDragon/Blog/issues/17)
 ## <br/><br/>Git学习笔记
