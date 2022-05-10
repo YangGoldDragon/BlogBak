@@ -14,10 +14,10 @@
 ## <br/><br/>设计模式
 #### &nbsp;&nbsp;[发布订阅模式](https://github.com/YangGoldDragon/Blog/issues/21)
 #### &nbsp;&nbsp;[单例模式](https://github.com/YangGoldDragon/Blog/issues/22)
-## <br/><br/>性能优化
-#### &nbsp;&nbsp;[性能优化简述](https://github.com/YangGoldDragon/Blog/issues/17)
 ## <br/><br/>Vue全家桶
 #### &nbsp;&nbsp;[vue项目中的scoped/deep原理解析](https://github.com/YangGoldDragon/Blog/issues/23)
+## <br/><br/>性能优化
+#### &nbsp;&nbsp;[性能优化简述](https://github.com/YangGoldDragon/Blog/issues/17)
 ## <br/><br/>Git学习笔记
 #### &nbsp;&nbsp;[Git知识点](https://github.com/YangGoldDragon/Blog/issues/7)
 ## <br/><br/>移动端调试
