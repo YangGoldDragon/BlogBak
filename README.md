@@ -19,7 +19,7 @@
 #### &nbsp;&nbsp;[vue项目中的scoped/deep原理解析](https://github.com/YangGoldDragon/Blog/issues/23)
 #### &nbsp;&nbsp;[vue2源码学习笔记](https://github.com/YangGoldDragon/Blog/issues/25)
 ## <br/><br/>Css世界
-#### &nbsp;&nbsp;[css常用特性总结](https://github.com/YangGoldDragon/Blog/issues/26)
+#### &nbsp;&nbsp;[css手把手教学](https://github.com/YangGoldDragon/Blog/issues/26)
 ## <br/><br/>性能优化
 #### &nbsp;&nbsp;[性能优化简述](https://github.com/YangGoldDragon/Blog/issues/17)
 ## <br/><br/>Git学习笔记
