@@ -24,7 +24,5 @@
 #### &nbsp;&nbsp;[性能优化简述](https://github.com/YangGoldDragon/Blog/issues/17)
 ## <br/><br/>Git学习笔记
 #### &nbsp;&nbsp;[Git知识点](https://github.com/YangGoldDragon/Blog/issues/7)
-## <br/><br/>移动端调试
-#### &nbsp;&nbsp;[Ios键盘弹起影响页面元素位置](https://github.com/YangGoldDragon/Blog/issues/9)
 ## <br/><br/>疑难杂症
 #### &nbsp;&nbsp;[一次编写业务组件时，无法正常获取到vue dom元素，vue/key/vnode。](https://github.com/YangGoldDragon/Blog/issues/28)
