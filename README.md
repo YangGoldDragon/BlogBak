@@ -27,4 +27,4 @@
 ## <br/><br/>移动端调试
 #### &nbsp;&nbsp;[Ios键盘弹起影响页面元素位置](https://github.com/YangGoldDragon/Blog/issues/9)
 ## <br/><br/>疑难杂症
-#### &nbsp;&nbsp;[Html5图片压缩，方向纠正，预览，上传](https://github.com/YangGoldDragon/Blog/issues/10)
+#### &nbsp;&nbsp;[一次编写业务组件时，无法正常获取到vue dom元素，vue/key/vnode。](https://github.com/YangGoldDragon/Blog/issues/28)
