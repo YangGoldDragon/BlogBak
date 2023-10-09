@@ -3,5 +3,11 @@
     "dev": "vitepress dev",
     "build": "vitepress build",
     "preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "1.0.0-rc.20"
+  },
+  "dependencies": {
+    "vue": "^3.3.4"
   }
 }
