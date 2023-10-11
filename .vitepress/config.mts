@@ -5,25 +5,25 @@ export default defineConfig({
   title: "Blog",
   description: "A VitePress Site",
   base: "/Blog/",
+  srcDir: './src/views',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: '首页', link: '/' },
+      { text: '代码', link: '/practicalProjects/crm' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: '实战项目',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Vite + Vue3 + Ts开发Crm系统', link: '/practicalProjects/crm' },
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/YangGoldDragon' }
     ]
   }
 })
