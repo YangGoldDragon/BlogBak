@@ -11,5 +11,5 @@
   "dependencies": {
     "vue": "^3.3.4"
   },
-  "packageManager": "pnpm"
+  "packageManager": "pnpm@^8"
 }
