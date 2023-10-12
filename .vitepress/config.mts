@@ -1,5 +1,4 @@
 import { defineConfig } from 'vitepress'
-import fs from 'fs'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
