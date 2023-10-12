@@ -8,6 +8,14 @@
 
 ## 使用vite创建项目
 - 首先，我们通过阅读vite官网（https://cn.vitejs.dev/guide/） 创建初始项目，
-我这里使用的是pnpm安装的方式。按照下图命令运行：
-
-![创建vite项目](../../assets/images/1.png)
+我这里使用的是pnpm安装的方式。按照以下命令运行：
+```typescript
+pnpm create vite
+project name: web-h5
+Vue
+Typescript
+cd web-h5
+pnpm run dev
+```
+如图：
+![图片1](../../assets/images/1.png)
