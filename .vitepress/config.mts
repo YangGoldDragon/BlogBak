@@ -9,7 +9,7 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: '首页', link: '/views' },
+      { text: '首页', link: '/' },
       { text: '代码', link: '/views/practicalProjects/crm' }
     ],
 
@@ -27,7 +27,6 @@ export default defineConfig({
     ]
   },
   rewrites: {
-    'views': '',
     'views/practicalProjects/crm.md': 'practicalProjects/crm.md',
   }
 })
