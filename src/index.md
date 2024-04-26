@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 开始学习
-      link: /practicalProjects/crm
+      link: /practicalProjects/admin
     - theme: alt
       text: Github
       link: 'https://github.com/YangGoldDragon'
@@ -17,7 +17,7 @@ hero:
 features:
   - title: 实战项目 
     details: 实践是检验真理的唯一标准
-    link: /practicalProjects/crm
+    link: /practicalProjects/admin
   # - title: Vue
   #   details: 你好，请手写一个miniVue
   # - title: Javascript

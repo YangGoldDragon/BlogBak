@@ -10,14 +10,14 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
-      { text: '代码', link: '/practicalProjects/crm' }
+      { text: '代码', link: '/practicalProjects/admin' }
     ],
 
     sidebar: [
       {
         text: '实战项目',
         items: [
-          { text: 'Vite + Vue3 + Ts开发Crm系统', link: '/practicalProjects/crm' },
+          { text: 'Vite + Vue3 + Ts 开发后台管理系统', link: '/practicalProjects/admin' },
         ]
       }
     ],
@@ -27,6 +27,6 @@ export default defineConfig({
     ]
   },
   rewrites: {
-    'views/practicalProjects/crm.md': 'practicalProjects/crm.md',
+    'views/practicalProjects/admin.md': 'practicalProjects/admin.md',
   }
 })

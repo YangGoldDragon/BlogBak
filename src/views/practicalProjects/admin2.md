@@ -1,11 +1,10 @@
-# Vite + Vue3 + Ts 开发 Crm 系统
+# Vite + Vue3 + Ts 开发后台管理系统
 
 ## 技术栈:
 
-- Vite4.x
+- Vite5.x
 - Vue3.x
-- Typescript4.x
-- Vant4.x
+- Typescript5.x
 
 ## 使用 vite 创建项目
 
@@ -14,19 +13,16 @@
 
 ```typescript
 pnpm create vite
-project name: web-h5
+project name: vite-vue3-ts-admin
 Vue
 Typescript
-cd web-h5
+cd vite-vue3-ts-admin
 pnpm install
 pnpm run dev
 ```
 
-- 如图：
 
-![1](../../assets/images/1.png)
-
-- 然后我们可以看到启动成功，显示下图的页面。
+- 如下图：然后我们可以看到启动成功，显示下图的页面。
 
 ![2](../../assets/images/2.png)
 
@@ -36,20 +32,14 @@ pnpm run dev
 
 ![3](../../assets/images/3.png)
 
-- 安装 eslint
+- 安装并且配置eslint，这里用的版本是v8.57.0
 
 ```typescript
-pnpm i -D eslint
+pnpm create @eslint/config
 ```
 
-- 执行下列命令完成 eslint 配置初始化，生成配置文件 .eslintrc.cjs ，新版的 eslint 不需要我们再去手动安装很多依赖了，我们这里
-  可以自己选择对应环境，eslint 自动帮我们安装相关依赖。
+- 选择配置如下图：eslint安装模式选择（To check syntax, find problems, and enforce code style）。
 
-```typescript
-npx eslint --init
-```
-
-选择配置如下图：
 ![4](../../assets/images/4.png)
 
 - 根目录新建 .eslintignore 文件，添加忽略文件， ESLint 校验会忽略这些文件，配置如下图
@@ -69,10 +59,6 @@ npx eslint --init
 ```typescript
 npm run lint:eslint
 ```
-
-可以看到没有任何报错：
-
-![6](../../assets/images/6.png)
 
 - eslint 保存自动检测
 
